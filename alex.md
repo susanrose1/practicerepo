@@ -10,6 +10,6 @@
 
 ----
 
-![this is an image - insert yours](http://dhcu.ca/file/b19aebc8d32bb91c6aec3a14d4c80188/thumb.jpg)
+![this is an image - insert yours](https://scontent-yyz1-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/10351401_10203974409466232_5721035143372783010_n.jpg?oh=9d9548f53da52a72c0e0771c6dc9d2eb&oe=56A5FC09)
 
 ### Fork this repo, change this file appropriately, then make a pull request. Change the file name too, right, or you'll overwrite this template.
