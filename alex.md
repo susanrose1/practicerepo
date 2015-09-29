@@ -1,11 +1,11 @@
-# your name
+# Alex Nahas
 
-> brief blurb about yourself
+> I'm an English student in DH, with a BHum, and a puppy.
 
 ## Online Coordinates
 
-+ [github repo](http://link.to.your.repo)
-+ [twitter handle](http://link.to.your.twitter.profile)
++ [alexnahas](http://github.com/alexnahas)
++ [LexisNahas_III](http://twitter.com/LexicNahas_III)
 + [other](http://self.evident.right)
 
 ----
