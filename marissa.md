@@ -1,11 +1,11 @@
-# your name
+# Marissa
 
-> brief blurb about yourself
+> Hello!  I'm an MA student in Art HIstory.
 
 ## Online Coordinates
 
-+ [github repo](http://link.to.your.repo)
-+ [twitter handle](http://link.to.your.twitter.profile)
++ [github repo](https://github.com/marissavilleneuve)
++ [twitter handle](https://twitter.com/marissaville)
 + [other](http://self.evident.right)
 
 ----
